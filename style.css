@@ -1,0 +1,10 @@
+.main-button {
+    background-color: #555555;
+    color: #fff;
+    border: 5px solid grey;
+    border-style: double;
+    padding: 15px 32px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 40vh 90vh;
+}
